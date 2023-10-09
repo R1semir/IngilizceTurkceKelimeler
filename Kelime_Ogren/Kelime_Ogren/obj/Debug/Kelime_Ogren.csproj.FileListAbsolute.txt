@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe.config
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.pdb
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.Form1.resources
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.Properties.Resources.resources
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.exe
+C:\Users\legen\source\repos\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.pdb
